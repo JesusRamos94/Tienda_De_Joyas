@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "name": "tienda_de_joyas",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
